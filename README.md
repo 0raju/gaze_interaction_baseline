@@ -21,7 +21,7 @@ Email: [m.raju@txstate.edu](mailto:m.raju@txstate.edu)
 
 ## Instructions
 
-1. CSV folder contain all the required CSV files to generate the figures and tables. If anyone want to re-generate the files, please download the GazeBase dataset from https://figshare.com/articles/dataset/GazeBase_Data_Repository/12912257?file=27039812. Save it to Data folder. Then run- 
+1. Unzip the CSV file. Then, the CSV folder should contain all the required CSV files to generate the figures and tables. If anyone wants to re-generate the files, please download the GazeBase dataset from https://figshare.com/articles/dataset/GazeBase_Data_Repository/12912257?file=27039812. Please save it to Data folder. Then run- 
 
     ```bash
     python EU_general.py  
